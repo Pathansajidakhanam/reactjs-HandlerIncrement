@@ -1,9 +1,9 @@
-import CounterButtonFunc from "./CounterButtonFunc";
+import CounterButton from "./CounterButtonFunc";
 
 function App() {
   return (
     <div>
-      <CounterButtonFunc />
+      <CounterButton />
     </div>
   );
 }
